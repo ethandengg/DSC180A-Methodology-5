@@ -1,5 +1,3 @@
-# DSC180A Methodology Assignment 5 Site
-
 Ethan Deng  ezdeng@ucsd.edu
 
 Section B15: Powering Progress: Crafting Reliable EV Infrastructure in San Diego
